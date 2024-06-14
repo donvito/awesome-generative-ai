@@ -14,6 +14,10 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Copy.ai](https://www.copy.ai/): A tool for generating marketing copy, product descriptions, and other forms of text content.
 - [Writesonic](https://writesonic.com/): An AI-powered writing tool for creating articles, ads, and product descriptions.
 
+### Prompt Tools
+- [AI Prompt Creator](https://donvito.github.io/ai-prompt-creator-live/) Allows you to create and edit prompts. Free prompt templates are also available. 
+- [AI Prompt Library - Google Chrome Extension](https://chromewebstore.google.com/detail/ai-prompt-library-by-donv/mplkgmmdongmokckekhojjnooopkphlf)  Tool which allows you to save and reuse prompts within Google Chrome.
+
 ## Image
 
 - [DALL-E](https://www.openai.com/dall-e-2): An AI model by OpenAI that generates images from textual descriptions.
@@ -34,12 +38,13 @@ Here is a list of Generative AI information and tools that you can find useful f
 
 - [Hugging Face](https://huggingface.co/): A platform hosting a large collection of pre-trained AI models and tools for deploying machine learning applications.
 - [Google Colab](https://colab.research.google.com/): A free cloud service that allows you to run Jupyter Notebooks in the cloud with access to GPUs.
+- Replicate
 
 ## Programming Tools
 
 - [GitHub Copilot](https://github.com/features/copilot): An AI-powered code completion tool that helps you write code faster by suggesting whole lines or blocks of code.
-- [Replit](https://replit.com/): An online coding environment that lets you write, run, and share code in various programming languages.
-- [Jupyter Notebooks](https://jupyter.org/): An open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
+- [LiteLLM](https://litellm.ai/): Allows you to call most LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, etc.)
+- LangSmith
 
 ## Additional Resources
 
