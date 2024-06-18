@@ -15,7 +15,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Jasper](https://www.jasper.ai/): An AI writing assistant that helps create blog posts, marketing copy, and other written content.
 - [Copy.ai](https://www.copy.ai/): A tool for generating marketing copy, product descriptions, and other forms of text content.
 - [Writesonic](https://writesonic.com/): An AI-powered writing tool for creating articles, ads, and product descriptions.
-- [Consillium](https://consillium.com/) Generate a learning outline and content. Uses Groq.
+- [Consillium](https://www.consillium.app/) Generate a learning outline and content. Uses Groq.
 
 ### Prompt Tools
 - [AI Prompt Creator](https://donvito.github.io/ai-prompt-creator-live/) Allows you to create and edit prompts. Free prompt templates are also available. 
