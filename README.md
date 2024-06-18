@@ -7,7 +7,9 @@ Here is a list of Generative AI information and tools that you can find useful f
 ### Chat
 - [ChatGPT](https://www.openai.com/chatgpt): An AI language model developed by OpenAI that can assist with a variety of text-based tasks, from answering questions to generating creative content.
 - [Claude AI](https://www.anthropic.com/claude): An AI assistant developed by Anthropic, designed to have nuanced conversations and assist with complex tasks.
-- [Meta AI](https://ai.facebook.com/): AI models developed by Meta (formerly Facebook) for various applications including natural language processing and chat.
+- [Perplexity](https://www.perplexity.ai/): Perplexity is a free AI search engine designed to revolutionize the way you discover information. Ask any question, and it searches the internet to give you an accessible, conversational, and verifiable answer.
+- [Meta AI](https://www.meta.ai/): AI chat which has web access. Meta AI is developed by Meta (formerly Facebook)
+- [Google Gemini](https://gemini.google.com): Google Gemini is a chat application similar to ChatGPT developed by Google.
 
 ### Writing and Content Generation
 - [Jasper](https://www.jasper.ai/): An AI writing assistant that helps create blog posts, marketing copy, and other written content.
@@ -18,6 +20,11 @@ Here is a list of Generative AI information and tools that you can find useful f
 ### Prompt Tools
 - [AI Prompt Creator](https://donvito.github.io/ai-prompt-creator-live/) Allows you to create and edit prompts. Free prompt templates are also available. 
 - [AI Prompt Library - Google Chrome Extension](https://chromewebstore.google.com/detail/ai-prompt-library-by-donv/mplkgmmdongmokckekhojjnooopkphlf)  Tool which allows you to save and reuse prompts within Google Chrome.
+
+### RAG (Retrieval-Augmented Generation)
+- [NotebookLM](https://notebooklm.google/): NotebookLM is your personalized AI research assistant powered by Google's most capable model, Gemini 1.5 Pro.
+- [RAGApp](https://github.com/ragapp/ragapp): A simple open-source RAG app which deployable in your own cloud infrastructure using Docker. Built using LlamaIndex.
+- [Verba](https://verba.weaviate.io/): Verba is a fully-customizable open-source personal assistant for querying and interacting with your data, either locally or deployed via cloud.
 
 ## Image
 
@@ -34,6 +41,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 
 - [Runway ML](https://runwayml.com/): A platform offering a suite of AI tools for video creation and editing.
 - [Synthesia](https://www.synthesia.io/): An AI video generation platform that allows you to create videos with AI avatars by simply typing in text.
+- [HeyGen](https://app.heygen.com/) HeyGen is an AI video maker that helps you turn text into spokesperson videos by typing. Make videos as simply as making PowerPoints. AI Avatars. 
 
 ## Hosting
 
