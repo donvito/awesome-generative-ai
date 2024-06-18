@@ -13,6 +13,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Jasper](https://www.jasper.ai/): An AI writing assistant that helps create blog posts, marketing copy, and other written content.
 - [Copy.ai](https://www.copy.ai/): A tool for generating marketing copy, product descriptions, and other forms of text content.
 - [Writesonic](https://writesonic.com/): An AI-powered writing tool for creating articles, ads, and product descriptions.
+- [Consillium](https://consillium.com/) Generate a learning outline and content. Uses Groq.
 
 ### Prompt Tools
 - [AI Prompt Creator](https://donvito.github.io/ai-prompt-creator-live/) Allows you to create and edit prompts. Free prompt templates are also available. 
@@ -38,13 +39,13 @@ Here is a list of Generative AI information and tools that you can find useful f
 
 - [Hugging Face](https://huggingface.co/): A platform hosting a large collection of pre-trained AI models and tools for deploying machine learning applications.
 - [Google Colab](https://colab.research.google.com/): A free cloud service that allows you to run Jupyter Notebooks in the cloud with access to GPUs.
-- Replicate
+- [Replicate](https://replicate.com) Run AI with APIs. Run and fine-tune open-source LLM and Image Generation models. Replicate has APIs which is easy to use.
 
 ## Programming Tools
 
 - [GitHub Copilot](https://github.com/features/copilot): An AI-powered code completion tool that helps you write code faster by suggesting whole lines or blocks of code.
 - [LiteLLM](https://litellm.ai/): Allows you to call most LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, etc.)
-- LangSmith
+- [LangSmith](https://www.langchain.com/langsmith): Get your LLM app from prototype to production. An all-in-one developer platform for every step of the LLM-powered application lifecycle.
 
 ## Additional Resources
 
