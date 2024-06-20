@@ -26,6 +26,11 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [RAGApp](https://github.com/ragapp/ragapp): A simple open-source RAG app which deployable in your own cloud infrastructure using Docker. Built using LlamaIndex.
 - [Verba](https://verba.weaviate.io/): Verba is a fully-customizable open-source personal assistant for querying and interacting with your data, either locally or deployed via cloud.
 
+### Document Parsing
+- [LlamaParse](https://github.com/run-llama/llama_parse):LlamaParse is an API created by LlamaIndex to efficiently parse and represent files for efficient retrieval and context augmentation using LlamaIndex frameworks.
+- [UnstructuredIO](https://github.com/Unstructured-IO/unstructured)): The unstructured library provides open-source components for ingesting and pre-processing images and text documents, such as PDFs, HTML, Word docs, and many more.
+- [Sycamore by Aryn AI](https://github.com/aryn-ai/sycamore): Sycamore ETL is an AI-powered document processing framework for LLMs, RAG, and unstructured analytics. It makes it easy to reliably load your vector databases and hybrid search engines, such as OpenSearch, Pinecone (coming soon), and Weaviate (coming soon), with higher quality data
+
 ## Image
 
 - [DALL-E](https://www.openai.com/dall-e-2): An AI model by OpenAI that generates images from textual descriptions.
