@@ -60,6 +60,8 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Codeium](https://codeium.com): AI-powered code completion similar to Github Copilot. The free tier is generous and good enough for everyday coding.
 - [LiteLLM](https://litellm.ai/): Allows you to call most LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, etc.)
 - [LangSmith](https://www.langchain.com/langsmith): Get your LLM app from prototype to production. An all-in-one developer platform for every step of the LLM-powered application lifecycle.
+- [toprank](https://github.com/nowork-studio/toprank): Open-source Claude Code plugin providing SEO and Google Ads skills — meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ## Additional Resources
 
