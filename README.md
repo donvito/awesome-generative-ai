@@ -39,6 +39,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 
 ## Audio
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - [ElevenLabs](https://elevenlabs.io/): An AI tool for generating natural-sounding voiceovers and audio content.
 - [Descript](https://www.descript.com/): A powerful tool for audio and video editing, which also offers AI-based transcription and voice synthesis.
 
