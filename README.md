@@ -46,7 +46,8 @@ Here is a list of Generative AI information and tools that you can find useful f
 
 - [Runway ML](https://runwayml.com/): A platform offering a suite of AI tools for video creation and editing.
 - [Synthesia](https://www.synthesia.io/): An AI video generation platform that allows you to create videos with AI avatars by simply typing in text.
-- [HeyGen](https://app.heygen.com/) HeyGen is an AI video maker that helps you turn text into spokesperson videos by typing. Make videos as simply as making PowerPoints. AI Avatars. 
+- [HeyGen](https://app.heygen.com/) HeyGen is an AI video maker that helps you turn text into spokesperson videos by typing. Make videos as simply as making PowerPoints. AI Avatars.
+- [videos.social](https://videos.social/?utm_source=donvito-awesome-generative-ai&utm_medium=directory&utm_campaign=listing-wave-d): Turns blog posts, PDFs, and prompts into editable faceless videos — not a regenerate loop. Start free — 1 render included. Packs from $10. 1 credit = 1 render. 
 
 ## Hosting
 
