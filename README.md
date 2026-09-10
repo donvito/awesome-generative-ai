@@ -47,6 +47,8 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Runway ML](https://runwayml.com/): A platform offering a suite of AI tools for video creation and editing.
 - [Synthesia](https://www.synthesia.io/): An AI video generation platform that allows you to create videos with AI avatars by simply typing in text.
 - [HeyGen](https://app.heygen.com/) HeyGen is an AI video maker that helps you turn text into spokesperson videos by typing. Make videos as simply as making PowerPoints. AI Avatars. 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio): MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing, editing, generating, and assembling videos from editable plan.json timelines.
+
 
 ## Hosting
 
