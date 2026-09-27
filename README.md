@@ -36,6 +36,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [DALL-E](https://www.openai.com/dall-e-2): An AI model by OpenAI that generates images from textual descriptions.
 - [Midjourney](https://www.midjourney.com/): An AI-based tool that creates art and images from text prompts.
 - [Stable Diffusion](https://stability.ai/): A state-of-the-art open-source text-to-image model that generates high-quality images from text prompts.
+- [Raphael AI](https://raphael.app): An AI image generator for creating high-quality art and visuals from text prompts.
 
 ## Audio
 
