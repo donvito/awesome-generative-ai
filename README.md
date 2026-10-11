@@ -10,6 +10,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 - [Perplexity](https://www.perplexity.ai/): Perplexity is a free AI search engine designed to revolutionize the way you discover information. Ask any question, and it searches the internet to give you an accessible, conversational, and verifiable answer.
 - [Meta AI](https://www.meta.ai/): AI chat which has web access. Meta AI is developed by Meta (formerly Facebook)
 - [Google Gemini](https://gemini.google.com): Google Gemini is a chat application similar to ChatGPT developed by Google.
+- [Auferet](https://auferet.com): An AI game master for solo text adventures and tabletop RPGs, with long-term memory of your story and your uploaded lore.
 
 ### Writing and Content Generation
 - [Jasper](https://www.jasper.ai/): An AI writing assistant that helps create blog posts, marketing copy, and other written content.
