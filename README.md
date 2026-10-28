@@ -20,6 +20,7 @@ Here is a list of Generative AI information and tools that you can find useful f
 ### Prompt Tools
 - [AI Prompt Creator](https://donvito.github.io/ai-prompt-creator-live/) Allows you to create and edit prompts. Free prompt templates are also available. 
 - [AI Prompt Library - Google Chrome Extension](https://chromewebstore.google.com/detail/ai-prompt-library-by-donv/mplkgmmdongmokckekhojjnooopkphlf)  Tool which allows you to save and reuse prompts within Google Chrome.
+- [Ideoy](https://ideoy.ai) - AI photo-to-video meme templates — turn a selfie into short vertical remakes of trending memes.
 
 ### RAG (Retrieval-Augmented Generation)
 - [NotebookLM](https://notebooklm.google/): NotebookLM is your personalized AI research assistant powered by Google's most capable model, Gemini 1.5 Pro.
